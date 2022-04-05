@@ -1,6 +1,6 @@
 ## FULLSTACK APP WITH AWS SERVERLESS(AMPLIFY)
 
-This unique app is a fullstack Aws application. The app shows the implementation and how to build a fullstack application
+This unique app is a fullstack Aws application. The app shows the implementation on how to build a fullstack application
 using AWS Serverless.
 
 ## TOOLS
